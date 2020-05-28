@@ -1,9 +1,8 @@
 # Проектная работа "Научиться учиться"
 
+Ссылка на GitHub Pages: https://maksimzinchuk.github.io/how-to-learn/index.html
 
 **Готовая работа второго спринта**
-
-_А это файл README для теста работы на git_
 
 В этой работе используются iframe, flexbox, анимации keyframes, БЭМ-разметка и файловая структура Nested.
 
